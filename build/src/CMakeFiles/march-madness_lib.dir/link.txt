@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmarch-madness_lib.a  CMakeFiles/march-madness_lib.dir/Simulator.cpp.o CMakeFiles/march-madness_lib.dir/Game.cpp.o CMakeFiles/march-madness_lib.dir/Team.cpp.o
-/usr/bin/ranlib libmarch-madness_lib.a
